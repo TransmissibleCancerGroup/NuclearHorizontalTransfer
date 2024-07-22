@@ -1,0 +1,3 @@
+[submodule "pb_genotyper"]
+	path = pb_genotyper
+	url = https://github.com/kgori/pb_genotyper.git
