@@ -19,3 +19,6 @@
 [submodule "nf_htrnaseq"]
 	path = nf_htrnaseq
 	url = https://github.com/kgori/nf_htrnaseq.git
+[submodule "segmentation"]
+	path = segmentation
+	url = https://github.com/kgori/segmentation.git

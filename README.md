@@ -20,6 +20,8 @@ Code accompanying "Horizontal transfer of nuclear DNA in a transmissible cancer"
 - `nf_htrnaseq`
     - Nextflow pipeline for RNAseq analysis, with extra updated scripts to incorporate
     PacBio long read phasing info.
+- `segmentation`
+    - R package used to run Piecewise Constant Function segmentation as part of the copy number calling pipeline.
 
 ## Misc
 - `VAF_correction.R`
