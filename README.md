@@ -24,4 +24,6 @@ Code accompanying "Horizontal transfer of nuclear DNA in a transmissible cancer"
 ## Misc
 - `VAF_correction.R`
     - source this file in R to put the function `fast_estimate_tumour_vaf` in scope
+    - this code implements the section "Purity correction of variant allele fraction"
+    given in the Methods section of the paper
     - this function is available separately through `cnpipe`
