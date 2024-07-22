@@ -17,6 +17,9 @@ Code accompanying "Horizontal transfer of nuclear DNA in a transmissible cancer"
     - Custom copy number variant calling pipeline. Requires `cnpipe`.
 - `nf_population_genetics`
     - Nextflow pipeline for population genetics analysis.
+- `nf_htrnaseq`
+    - Nextflow pipeline for RNAseq analysis, with extra updated scripts to incorporate
+    PacBio long read phasing info.
 
 ## Misc
 - `VAF_correction.R`

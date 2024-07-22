@@ -16,3 +16,6 @@
 [submodule "nf_population_genetics"]
 	path = nf_population_genetics
 	url = https://github.com/kgori/nf_population_genetics.git
+[submodule "nf_htrnaseq"]
+	path = nf_htrnaseq
+	url = https://github.com/kgori/nf_htrnaseq.git
