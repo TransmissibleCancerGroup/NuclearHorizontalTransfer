@@ -8,8 +8,11 @@ Code accompanying "Horizontal transfer of nuclear DNA in a transmissible cancer"
       but Nextflow-ified.
 - `pb_genotyper`
     - PacBio variant genotyper.
+- `snv_analysis_pipeline`
+    - Postprocessing of Somatypus output - separates germline and somatic variants,
+    does quality filtering, runs Variant Effect Predictor, builds phylogenetic trees.
 
 
-## Misc
+## Misc
 - `VAF_correction.R`
     - source this file in R to put the function `fast_estimate_tumour_vaf` in scope

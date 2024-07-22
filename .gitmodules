@@ -4,3 +4,6 @@
 [submodule "somatypus_nf"]
 	path = somatypus_nf
 	url = https://github.com/kgori/somatypus_nf.git
+[submodule "snv_analysis_pipeline"]
+	path = snv_analysis_pipeline
+	url = https://github.com/kgori/snv_analysis_pipeline.git
