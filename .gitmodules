@@ -1,3 +1,6 @@
 [submodule "pb_genotyper"]
 	path = pb_genotyper
 	url = https://github.com/kgori/pb_genotyper.git
+[submodule "somatypus_nf"]
+	path = somatypus_nf
+	url = https://github.com/kgori/somatypus_nf.git
