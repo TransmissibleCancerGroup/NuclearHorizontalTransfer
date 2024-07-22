@@ -7,3 +7,6 @@
 [submodule "snv_analysis_pipeline"]
 	path = snv_analysis_pipeline
 	url = https://github.com/kgori/snv_analysis_pipeline.git
+[submodule "cnpipe"]
+	path = cnpipe
+	url = https://github.com/kgori/cnpipe.git

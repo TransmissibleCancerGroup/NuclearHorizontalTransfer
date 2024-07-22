@@ -11,7 +11,8 @@ Code accompanying "Horizontal transfer of nuclear DNA in a transmissible cancer"
 - `snv_analysis_pipeline`
     - Postprocessing of Somatypus output - separates germline and somatic variants,
     does quality filtering, runs Variant Effect Predictor, builds phylogenetic trees.
-
+- `cnpipe`
+    - An R package containing various helper functions for working with copy number data.
 
 ## Misc
 - `VAF_correction.R`
