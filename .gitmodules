@@ -13,3 +13,6 @@
 [submodule "copynumber_calling_pipeline"]
 	path = copynumber_calling_pipeline
 	url = https://github.com/kgori/copynumber_calling_pipeline.git
+[submodule "nf_population_genetics"]
+	path = nf_population_genetics
+	url = https://github.com/kgori/nf_population_genetics.git

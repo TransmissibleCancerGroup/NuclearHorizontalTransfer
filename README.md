@@ -15,6 +15,8 @@ Code accompanying "Horizontal transfer of nuclear DNA in a transmissible cancer"
     - An R package containing various helper functions for working with copy number data.
 - `copynumber_calling_pipeline`
     - Custom copy number variant calling pipeline. Requires `cnpipe`.
+- `nf_population_genetics`
+    - Nextflow pipeline for population genetics analysis.
 
 ## Misc
 - `VAF_correction.R`
