@@ -13,7 +13,10 @@ Code accompanying "Horizontal transfer of nuclear DNA in a transmissible cancer"
     does quality filtering, runs Variant Effect Predictor, builds phylogenetic trees.
 - `cnpipe`
     - An R package containing various helper functions for working with copy number data.
+- `copynumber_calling_pipeline`
+    - Custom copy number variant calling pipeline. Requires `cnpipe`.
 
 ## Misc
 - `VAF_correction.R`
     - source this file in R to put the function `fast_estimate_tumour_vaf` in scope
+    - this function is available separately through `cnpipe`

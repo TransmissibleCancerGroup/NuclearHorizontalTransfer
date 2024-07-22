@@ -10,3 +10,6 @@
 [submodule "cnpipe"]
 	path = cnpipe
 	url = https://github.com/kgori/cnpipe.git
+[submodule "copynumber_calling_pipeline"]
+	path = copynumber_calling_pipeline
+	url = https://github.com/kgori/copynumber_calling_pipeline.git
